@@ -2,6 +2,8 @@
 
 A simple visualization of noble gas particles in a 2D system, demonstrating ideal gas behavior.
 
+![Simulation](simulation.gif)
+
 ## Features
 
 - **Temperature Control**: Adjust particle speeds.
